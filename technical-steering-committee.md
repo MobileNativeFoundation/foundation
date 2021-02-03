@@ -16,7 +16,8 @@ and has a mandate to facilitate driving consensus for:
 
 ### General
 
-- The TSC consists of 6 members serving a 2 year term.
+- The TSC consists of 6 members (along with 6 secondaries, so 12 total
+  members) serving a 2 year term.
 - One member of the committee is selected by the TSC as the chair. The
   committee chair is responsible for setting agendas and calling
   meetings.
