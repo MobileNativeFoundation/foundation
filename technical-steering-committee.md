@@ -43,5 +43,6 @@ and has a mandate to facilitate driving consensus for:
 - Quorum for TSC meetings requires at least fifty percent of all voting
   members of the TSC to be present.
 - Each member can vote in favor, against, or abstain.
-- Proposals approved by a majority of cast vote.
+- Proposals approved by a majority of cast vote (ties are therefore
+  against).
 - A member and their secondary comprise a single vote.
