@@ -2,7 +2,7 @@
 
 1. **Shared community ownership**
 
-    When projects are owned by individuals working at a company, the ownership can become unclear when they leave, resulting in the project withering. When a project is owned by an individual, it's easy for them to lose interest in maintaining it over time. MNF owned projects are entirely community-driven making it easy to onboard new contributors over time. This allows contributors to continue to drive projects even if they change companies. This helps remove single points of failure in the community to help ensure important projects can live longer.
+    When a project is maintained by individuals working at a single company, the ownership of the project can become unclear when they leave or the company loses interest, resulting in the project withering. MNF owned projects are entirely community-driven making it easy to onboard new contributors over time, and giving projects the greatest chance of success in the face of perpetual OSS staffing needs. Community ownership helps remove single points of failure to help ensure important projects can live longer.
 
 2. **Community standardization**
 
