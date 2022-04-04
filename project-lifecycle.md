@@ -60,7 +60,7 @@ Good candidates for archiving include:
 1. **Projects with no active maintenance**: maintainers may decide to leave a project, or the project may see no new commits on its main branch in a year.
 2. **Projects with no active usage**: projects may fall out of use over time. They may have been replaced by first-party tooling, or the community may have adopted a competing solution.
 
-Archived projects will use Github’s “archived” status: code and past releases will still be available.
+Archived projects will use GitHub’s “archived” status: code and past releases will still be available.
 
 To archive a project:
 
