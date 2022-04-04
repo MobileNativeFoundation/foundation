@@ -26,7 +26,7 @@ Projects that are submitted to the Mobile Native Foundation will be evaluated by
 
 1. **Projects must be open source, ideally under the [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0) License.**
 
-    Other licenses (including the MIT or BSD license) may be accepted, at the discretion of the TSC.
+    Other licenses (including the [MIT](https://choosealicense.com/licenses/mit/) or [BSD](https://choosealicense.com/licenses/bsd-2-clause/) license) may be accepted, at the discretion of the TSC.
 
 2. **Projects should have community interest.**
 
